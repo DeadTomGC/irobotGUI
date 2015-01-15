@@ -1,0 +1,8 @@
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\bin\Release\irobot.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\bin\Release\irobot.pdb
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.csprojResolveAssemblyReference.cache
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.Form1.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.Properties.Resources.resources
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.csproj.GenerateResource.Cache
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.exe
+C:\Users\DeadTomGC\documents\visual studio 2010\Projects\irobot\irobot\obj\x86\Release\irobot.pdb
